@@ -1,0 +1,47 @@
+Türkiye,Ankara
+Fransa,Paris
+Japonya,Tokyo
+Brezilya,Brasília
+Kanada,Ottawa
+Almanya,Berlin
+İngiltere,Londra
+İtalya,Roma
+İspanya,Madrid
+Rusya,Moskova
+Çin,Pekin
+Hindistan,Yeni Delhi
+Avustralya,Canberra
+Meksika,Meksiko
+Arjantin,Buenos Aires
+Güney Kore,Seul
+Mısır,Kahire
+Yunanistan,Atina
+İsviçre,Bern
+Hollanda,Amsterdam
+Portekiz,Lizbon
+Norveç,Oslo
+İsveç,Stockholm
+Finlandiya,Helsinki
+Danimarka,Kopenhag
+Belçika,Brüksel
+Polonya,Varşova
+Çekya,Prag
+Macaristan,Budapeşte
+İzlanda,Reykjavik
+Yeni Zelanda,Wellington
+Şili,Santiago
+Peru,Lima
+Kolombiya,Bogota
+Venezuela,Caracas
+Suudi Arabistan,Riyad
+Güney Afrika,Pretoria
+Nijerya,Abuja
+Kenya,Nairobi
+Tayland,Bangkok
+Malezya,Kuala Lumpur
+Endonezya,Cakarta
+Vietnam,Hanoi
+Filipinler,Manila
+Singapur,Singapur
+Katar,Doha
+Birleşik Arap Emirlikleri,Abu Dabi
